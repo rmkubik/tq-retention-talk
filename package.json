@@ -4,8 +4,15 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "animate.css": "^4.1.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.1.1",
+    "typography": "^0.16.19",
+    "typography-theme-doelger": "^0.16.19",
+    "typography-theme-funston": "^0.16.19",
+    "typography-theme-sutro": "^0.16.19"
   },
   "devDependencies": {
     "@babel/core": "^7.10.3",
