@@ -52,7 +52,7 @@ const Footer = styled.footer`
 `;
 
 const App = () => {
-  const [currentIndex, setCurrentIndex] = useState(100);
+  const [currentIndex, setCurrentIndex] = useState(1);
 
   useEffect(() => {
     const listener = () => {
